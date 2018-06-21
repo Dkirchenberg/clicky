@@ -1,4 +1,5 @@
 import React from "react";
+import "../styles/Intro.css";
 
 const Intro = () => (
   <div className="container">

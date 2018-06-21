@@ -7,7 +7,7 @@ const Panel6 = () => (
       <h3 className="card-title">Terrier</h3>
     </div>
     <div className="card-body">
-    <img src= "https://vectortoons.com/wp-content/uploads/2016/04/jack-russell-terrier-collection-004.jpg" alt= "terrier"></img>
+    <img src= "https://vectortoons.com/wp-content/uploads/2016/04/jack-russell-terrier-collection-004.jpg" alt= "terrier" width="60" height="60"></img>
     </div>
   </div>
  </div>

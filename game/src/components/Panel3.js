@@ -7,7 +7,7 @@ const Panel3 = () => (
       <h3 className="card-title">Yorkie</h3>
     </div>
     <div className="card-body">
-    <img src= "https://i.pinimg.com/originals/da/25/60/da256019e44c4da7290c61ce34b7ebb2.jpg" alt= "yorkie"></img>
+    <img src= "https://i.pinimg.com/originals/da/25/60/da256019e44c4da7290c61ce34b7ebb2.jpg" alt= "yorkie" width="60" height="60"></img>
     </div>
   </div>
  </div>

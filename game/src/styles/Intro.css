@@ -1,0 +1,33 @@
+.container {
+    background: #f9b713;
+    height: 400px;
+  }
+  
+  .container h1 {
+    margin: 0;
+    padding-top: 75px;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+  }
+
+  .container h2 {
+    margin: 0;
+    padding-top: 75px;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+  }
+
+  .container ol {
+      text-align: center;
+  }
+
+  .container li {
+  text-align: center;
+}
+
+.jumbotron {
+    background: lightblue;   
+}
+  
